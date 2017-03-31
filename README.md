@@ -14,18 +14,18 @@ Esse repositorio é de teste e praticas dos estudos a respeito desse simples, po
 # How to
 
 Para melhor usar o Slim, é indicado o download e uso do composer 
-disponivel em (composer)[https://getcomposer.org/]
+disponivel em https://getcomposer.org/
 
 faça o dowload do componente via terminal usando composer
 
-ex: require slim/slim ^3
+* ex: require slim/slim ^3
 
 # Links relacionados
 
-Slim [https://www.slimframework.com/]
-composer [https://getcomposer.org/]
-Json [php.net/manual/pt_BR/book.json.php]
-PDO [https://www.w3schools.com/php/php_mysql_connect.asp] ou [php.net/manual/en/book.pdo.php]
+* Slim https://www.slimframework.com/
+* composer https://getcomposer.org/
+* Json php.net/manual/pt_BR/book.json.php
+* PDO https://www.w3schools.com/php/php_mysql_connect.asp
 
 # contato
 
